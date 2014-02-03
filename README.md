@@ -1,4 +1,4 @@
 Astronomy Picture of the Day
 ============================
 
-A place for my text-processing experiments with Astronomy Picture of the Day. I have parsed the explanations to identify likely astronomical objects and passed those through [LookUp](http://www.strudel.org.uk/lookUP/) to find their Right Ascension/Declination and object types (using the [AVM](http://www.virtualastronomy.org/avm_metadata.php) classification).
+In updating the [@apod](http://twitter.com/apod) Twitter feed, and providing an [APOD Search](http://apod.it/), I've created a database of the text explanations for every Astronomy Picture of the Day. These are parsed from the original web pages. At the same time I have parsed the text to identify likely astronomical objects and piped those through [LookUp](http://www.strudel.org.uk/lookUP/) to find their Right Ascension/Declination and types (using the [AVM](http://www.virtualastronomy.org/avm_metadata.php) classification). I've converted the results of this into a large JSON file.
