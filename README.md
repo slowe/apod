@@ -12,7 +12,7 @@ For each entry you'll get:
 * title - The title
 * image - The URL of the image
 * thumb - The URL of the thumbnail image
-* media - [optional] The URL when the image isn't an image. This could be a link to YouTube, Vimeno, a Flash file etc.
+* media - [optional] The URL when the image isn't an image. This could be a link to YouTube, Vimeo, a Flash file etc.
 * text - The escaped HTML for the description of the entry.
 * credit - The escaped HTML for the credit line.
 * objects - [optional] An array of extracted objects. Each one contains:
