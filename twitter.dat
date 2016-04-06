@@ -16,12 +16,15 @@ http://sdo.gsfc.nasa.gov/	@NASASunEarth
 http://saturn.jpl.nasa.gov/spacecraft/instruments-cassini-radar.cfm	@CassiniSaturn
 http://saturn.jpl.nasa.gov/spacecraft/overview/	@CassiniSaturn
 http://chandra.harvard.edu/	@chandraxray
+https://www.nasa.gov/mission_pages/chandra/main/index.html	@chandraxray
 http://www.esa.int/	@esa
+http://www.esa.int	@esa
 http://herschel.esac.esa.int/	@ESAHerschel
 http://rosetta.esa.int/	@ESA_Rosetta
 http://www.nsf.gov/	@NSF
 https://www.spacetelescope.org/	@hubble_space
 http://www.spacetelescope.org/	@hubble_space
+https://www.nasa.gov/mission_pages/hubble/main/index.html	@hubble_space
 http://heritage.stsci.edu/	@HubbleHeritage
 http://heritage.stsci.edu/commonpages/infoindex/ourproject/moreproject.html	@HubbleHeritage
 http://www.stsci.edu/	@stsci
