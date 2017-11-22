@@ -1,5 +1,6 @@
 http://www.nasa.gov/	@NASA
 http://www.nasa.gov	@NASA
+https://www.nasa.giv	@NASA
 http://www.jpl.nasa.gov/	@NASAJPL
 http://www.jpl.nasa.gov	@NASAJPL
 http://www.gsfc.nasa.gov/	@NASAGoddard
@@ -56,6 +57,7 @@ https://www.ligo.caltech.edu/	@LIGO
 http://www.virgo-gw.eu/	@ego_virgo
 http://www.eso.org	@ESO
 http://www.eso.org/	@ESO
+http://www.eso.org/public/	@ESO
 http://www.nrao.edu/	@TheNRAO
 http://www.vla.nrao.edu/	@TheNRAO
 http://www.almaobservatory.org/	@ALMAObs
