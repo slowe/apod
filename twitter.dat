@@ -1,5 +1,7 @@
 http://www.nasa.gov/	@NASA
+https://www.nasa.gov/	@NASA
 http://www.nasa.gov	@NASA
+https://www.nasa.gov	@NASA
 https://www.nasa.giv	@NASA
 http://www.jpl.nasa.gov/	@NASAJPL
 http://www.jpl.nasa.gov	@NASAJPL
@@ -19,6 +21,8 @@ http://saturn.jpl.nasa.gov/spacecraft/overview/	@CassiniSaturn
 http://chandra.harvard.edu/	@chandraxray
 https://www.nasa.gov/mission_pages/chandra/main/index.html	@chandraxray
 http://www.esa.int/	@esa
+https://www.esa.int/	@esa
+https://www.esa.int	@esa
 http://www.esa.int	@esa
 http://herschel.esac.esa.int/	@ESAHerschel
 http://sci.esa.int/herschel/	@ESAHerschel
